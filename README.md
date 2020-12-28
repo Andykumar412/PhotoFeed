@@ -4,7 +4,7 @@ Link to the website [https://hopeful-dubinsky-a0a13b.netlify.app/](https://hopef
 
 ## Tools used 
 
-- React js
+- javascript
 - HTML
 - CSS
 
